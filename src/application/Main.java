@@ -4,6 +4,7 @@ import java.io.IOException;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
+import javafx.scene.image.Image;
 import javafx.scene.layout.AnchorPane;
 import javafx.stage.Stage;
 
@@ -23,6 +24,7 @@ public class Main extends Application {
             
             mainScene = new Scene(anchorPane);
             primaryStage.setScene(mainScene);
+            primaryStage.getIcons().add(new Image(getClass().getResourceAsStream("/view/img/icons/key.png")));
             primaryStage.setResizable(false);
             primaryStage.setTitle("Gerador de Senhas");
             primaryStage.show();

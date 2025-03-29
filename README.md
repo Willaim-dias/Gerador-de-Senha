@@ -1,8 +1,8 @@
 # Gerador de Senhas
 
 ## Descrição
-Com o aumento da necessidade de segurança digital, criar senhas fortes está cada vez mais desafiador. Letras, números, caracteres especiais, e um comprimento superior a 6 caracteres tornam o processo ainda mais complicado para muitos usuários.  
-Este projeto tem como objetivo oferecer uma solução simples e prática para gerar senhas seguras de forma automática. Não se trata de um projeto com foco visual, mas sim em funcionalidade e eficiência.
+Com o aumento da necessidade de segurança digital, criar senhas fortes está cada vez mais desafiador. Letras, números, caracteres especiais, e um comprimento superior a 8 caracteres tornam o processo ainda mais complicado para muitos usuários.  
+Este projeto tem como objetivo oferecer uma solução simples e prática para gerar senhas seguras de forma automática.
 
 ## Recomendação de Uso
 - **Use senhas com 8 ou mais caracteres** para aumentar a segurança.
